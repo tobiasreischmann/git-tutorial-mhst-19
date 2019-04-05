@@ -24,7 +24,7 @@
 
 ## History eines Branches neu schreiben:
  1. Checkout develop
- 2. Ändern der letzten beiden Commits sodass Änderungen an view.php in einem commit und Änderungen an styles.php in anderem commit.
+ 2. Ändern der letzten beiden Commits sodass Änderungen an view.php in einem commit und Änderungen an styles.php in anderem commit sind.
 
 ## Inconsistenten Patch anwenden.
  1. Der Patch patch-master aus diesem Repo soll auf den master Branch angewendet werden.
