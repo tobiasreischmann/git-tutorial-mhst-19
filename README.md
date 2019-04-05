@@ -1,7 +1,7 @@
 # Installation
 
 ```
- git clone git@github.com/tobiasreischmann/git-tutorial-mhst-19.git git-tutorial
+ git clone https://github.com/tobiasreischmann/git-tutorial-mhst-19.git git-tutorial
  cd git-tutorial
  git submodule update --init
 ```
