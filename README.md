@@ -1,4 +1,10 @@
-Interessante git Befehle:
+# Installation
+
+ `git clone git@github.com/tobiasreischmann/git-tutorial-mhst-19.git git-tutorial`
+ `cd git-tutorial`
+ `git submodule update --init`
+ 
+# Interessante git Befehle:
  - git rebase -i
  - git merge
  - git reflog
