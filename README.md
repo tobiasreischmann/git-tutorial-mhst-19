@@ -40,3 +40,8 @@
  2. Kopiere die Dateien loeschen.txt und ignore.txt in den playground.
  3. Lösche alle nicht getrackten Dateien, die im git status ausgegeben werden.
  4. Lösche auch alle ignorierten Dateien.
+
+## Hilfe ich hab meinen Branch kaputt gemacht!
+ 1. Checke den Branch feature/view aus.
+ 2. Führe `git reset --hard master` aus.
+ 3. Bekomme deinen alten Stand zurück.
